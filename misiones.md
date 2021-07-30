@@ -11,3 +11,5 @@
 8.- nuevos poderes sobrenaturales
 9.- entrenar
 10.- Necesitamos investigar los planes de los enemigos
+11.- Terminar los cursos de Fernando Herrera
+12.- Prácticar el uso de sus poderes
