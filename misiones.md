@@ -10,3 +10,4 @@
 7.- refuerzo de trabajo en equipo
 8.- nuevos poderes sobrenaturales
 9.- entrenar
+10.- Necesitamos investigar los planes de los enemigos
