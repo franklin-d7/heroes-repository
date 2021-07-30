@@ -1,6 +1,6 @@
 
 
-## Pasos de instalación 
+## Objetivos del repositorio 
 Ejecutar
 ``
 
