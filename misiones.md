@@ -9,3 +9,4 @@
 6.- pruebas de actitud
 7.- refuerzo de trabajo en equipo
 8.- nuevos poderes sobrenaturales
+9.- entrenar
