@@ -1,6 +1,5 @@
 
-
-## Objetivos del repositorio 
+## Objetivos de la misión  
 Ejecutar
 ``
 
